@@ -28,7 +28,7 @@ body {
   grid-template-columns: repeat(2, 1fr);
   grid-template-rows: repeat(2, 1fr);
   grid-template-areas:
-    'rating text'
+    ' text rating'
     'reviews reviews';
 }
 
